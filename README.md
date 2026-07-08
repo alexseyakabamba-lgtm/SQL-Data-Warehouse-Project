@@ -2,6 +2,7 @@
 
 This portfolio project showcases the design and implementation of a modern SQL Server data warehouse using the Medallion Architecture. It demonstrates an end-to-end ELT pipeline, dimensional data modeling, and the creation of analytics-ready datasets for business intelligence and advanced analytics. It highlights industry best practices in data engineering and analytics. 
 The project management steps followed during the solution implementation can be accessed on Notion by clicking below
+[![Project Plan](https://img.shields.io/badge/Project%20Plan-View%20on%20Notion-blue?style=for-the-badge&logo=notion)](https://spotless-brisket-a87.notion.site/Warehouse-Project-Plan-392993c45a2c803bbebdf038d0d6ec05?pvs=143)
 
 ## Table of Contents
 
@@ -168,3 +169,9 @@ This project demonstrates the implementation of:
 ---
 
 The resulting data warehouse provides a scalable and maintainable foundation for business reporting, dashboarding, advanced analytics, and future AI and machine learning workloads.
+
+## About me
+Hi, I'm Alex, background in Metallurgical Engineering with a strong passion for Data Engineering, Data Analytics, and Data Science. I enjoy building data solutions, uncovering insights from data, and continuously expanding my technical skills through hands-on projects.
+
+I'm always open to new opportunities where I can learn, contribute, and grow in the data field. Feel free to connect or get in touch with me on Linkedin by clicking here:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-seya-261008b8/)
