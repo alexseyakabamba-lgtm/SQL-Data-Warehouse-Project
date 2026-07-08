@@ -103,6 +103,10 @@ The following diagram illustrates the high-level architecture of the project and
 <img width="854" height="559" alt="High Level Architecture" src="https://github.com/user-attachments/assets/12da6e66-c528-4680-a803-b013b187d644" />
 
 
+The flow of the data through the various layers is captured by the following diagram:
+
+<img width="871" height="571" alt="Data Flow" src="https://github.com/user-attachments/assets/75935285-e8fa-4630-b251-74fac7fbff77" />
+
 ---
 
 ## Bronze Layer
