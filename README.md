@@ -1,6 +1,7 @@
 # SQL Data Warehouse Project
 
-This portfolio project showcases the design and implementation of a modern SQL Server data warehouse using the Medallion Architecture. It demonstrates an end-to-end ELT pipeline, dimensional data modeling, and the creation of analytics-ready datasets for business intelligence and advanced analytics.
+This portfolio project showcases the design and implementation of a modern SQL Server data warehouse using the Medallion Architecture. It demonstrates an end-to-end ELT pipeline, dimensional data modeling, and the creation of analytics-ready datasets for business intelligence and advanced analytics. It highlights industry best practices in data engineering and analytics. 
+The project management steps followed during the solution implementation can be accessed on Notion by clicking below
 
 ## Table of Contents
 
@@ -70,7 +71,7 @@ The Bronze layer acts as the immutable source of truth for the remainder of the 
 
 ## Silver Layer
 
-The **Silver layer** contains cleansed and standardized data that is suitable for downstream processing.
+The Silver layer contains high-quality, standardized data prepared for downstream processing. To keep the project focused on current-state analytics, historical versioning (historization) is intentionally excluded from the implementation.
 
 Data from the Bronze layer is transformed through a series of quality improvement processes, including:
 
