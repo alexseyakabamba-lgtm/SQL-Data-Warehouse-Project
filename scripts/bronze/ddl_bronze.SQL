@@ -98,4 +98,4 @@ id				NVARCHAR (50),
 cat				NVARCHAR (50),
 subcat			NVARCHAR (50),
 maintenance		NVARCHAR (50)
-)
+);
