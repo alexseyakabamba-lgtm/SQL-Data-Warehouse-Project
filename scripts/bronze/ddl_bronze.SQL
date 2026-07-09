@@ -34,6 +34,7 @@ CREATE TABLE bronze.crm_cust_info
     cst_create_date     DATE
 );
 
+--	Defining bronze.crm_prd_info
 
 IF OBJECT_ID ('bronze.crm_prd_info','U') IS NOT NULL
 	DROP TABLE bronze.crm_prd_info
