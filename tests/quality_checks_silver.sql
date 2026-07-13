@@ -183,11 +183,11 @@ WHERE cid IS NULL
    OR TRIM(cid) = '';
 
 -- Identify Invalid Birth Dates
--- Expectation:
--- Birth dates should be between 1924-01-01 and today.
+-- Expectation: No results
+-- Birth dates should be between 1916-02-10 and today.
 SELECT *
 FROM silver.erp_cust_az12
-WHERE bdate < '1924-01-01'
+WHERE bdate < '1916-02-10'
    OR bdate > GETDATE();
 
 -- Verify Gender Standardization
